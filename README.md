@@ -39,42 +39,18 @@ Before the boot camp begins, please ensure you have the following installed and 
 **Accessing the Starter Code:**
 
 Once you have the prerequisites installed:
-
-1.  **Clone the Repository:** Open your terminal, navigate to a directory where you want to store the project, and run the following command:
+ 
+**Clone the Repository:** Open your terminal, navigate to a directory where you want to store the project, and run the following command:
     ```bash
     git clone [YOUR_REPOSITORY_URL]
     cd solana-bootcamp-intro
     ```
     *(Replace `[YOUR_REPOSITORY_URL]` with the actual URL of this repository.)*
 
-2.  **Navigate to the Day 1 Starter Code:**
-    ```bash
-    cd day-1/starter-code
-    ```
 
-3.  **Install Dependencies:**
-    ```bash
-    npm install
-    # or
-    yarn install
-    ```
 
-4.  **Run the Development Server:**
-    ```bash
-    npm run dev
-    # or
-    yarn dev
-    ```
-    This will start the React development server. You should be able to view the application in your browser at `http://localhost:3000`.
 
-**Repository Structure:**
 
-* `pre-workshop/`: Contains the setup guide and any other preparatory materials.
-* `day-1/starter-code/`, `day-2/starter-code/`, `day-3/starter-code/`: Each directory contains the starting code for the respective day's workshop.
-* `resources/`: Includes the beginner-friendly cheat sheet and a troubleshooting guide for common issues.
-
-**We're excited to learn and build with you!**
-
-If you encounter any issues during the setup, please refer to the `resources/troubleshooting.md` file. For further questions and support, join our Discord community: [YOUR_DISCORD_LINK]
+For further questions and support, join our Telegram community: [https://t.me/+MVrJNLIGo7s1ZmRk]
 
 See you at the boot camp! 👋
