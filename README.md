@@ -54,3 +54,6 @@ Once you have the prerequisites installed:
 For further questions and support, join our Telegram community: [https://t.me/+MVrJNLIGo7s1ZmRk]
 
 See you at the boot camp! 👋
+
+
+
